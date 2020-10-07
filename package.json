@@ -1,0 +1,9 @@
+{
+  "name": "@yagisumi/my-config-prettier",
+  "version": "1.0.0",
+  "description": "My personal Prettier config.",
+  "main": "index.json",
+  "author": "yagisumi",
+  "repository": "github:yagisumi/my-config-prettier",
+  "license": "MIT"
+}
